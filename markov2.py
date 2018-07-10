@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 19 10:59:50 2017
 
-@author: Raksunaksu
+@author: zanppa
 """
 
 import re
